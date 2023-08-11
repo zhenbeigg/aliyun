@@ -1,0 +1,21 @@
+{
+    "name": "eykj/aliyun",
+    "description": "一一科技阿里云组件",
+    "license": "MIT",
+    "keywords": [
+        "eykj",
+        "aliyun"
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Eykj\\Aliyun\\": "src/"
+        },
+        "files": [
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
